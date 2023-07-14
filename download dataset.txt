@@ -1,0 +1,7 @@
+#install kaggle
+pip install kaggle
+
+#download Ham10000
+kaggle datasets download -d kmader/skin-cancer-mnist-ham10000
+
+#unzip and put all item into /input

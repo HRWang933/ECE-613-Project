@@ -1,0 +1,7 @@
+*.csv
+*.jpg
+/input/HAM10000_images_part_2
+/input/HAM10000_images_part_1
+/input/test_database/images
+/Binary_Classifier/dataset
+
