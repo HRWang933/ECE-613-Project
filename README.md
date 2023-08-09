@@ -1,10 +1,10 @@
-#Objective:
+# Objective:
 The primary goal of the MelanomaVision project is to devise an efficient and accurate method for early detection of melanoma, the deadliest form of skin cancer, using the power of convolutional neural networks (CNNs).
 
-#Background:
+# Background:
 Melanoma is a type of skin cancer that forms from melanocytes (cells responsible for skin pigmentation). Early detection is paramount because, if diagnosed and treated in its initial stages, the chances of full recovery are significantly higher. Traditional diagnostic procedures involve visual inspections and biopsies, which can be time-consuming and may sometimes lead to invasive procedures on benign lesions.
 
-#Methodology:
+# Methodology:
 
 Data Collection: Assemble a comprehensive dataset of dermatoscopic images, including both benign moles and malignant melanomas. Ensure the data is of high quality and annotated accurately.
 
@@ -18,8 +18,8 @@ Evaluation: Assess the model's performance using metrics like accuracy, sensitiv
 
 Deployment: Develop an application or interface where dermatologists or even general practitioners can upload skin images and get immediate feedback regarding the possibility of melanoma presence.
 
-#Potential Impact:
+# Potential Impact:
 With the power of convolutional neural networks, the MelanomaVision project aims to revolutionize the early detection of melanoma, significantly improving the survival rates and reducing the need for unnecessary invasive procedures.
 
-#Future Work:
+# Future Work:
 Explore the integration of the model into portable devices and mobile applications, allowing for at-home preliminary screenings. Continuous data collection and retraining can also be employed to ensure the model stays up-to-date with the latest diagnostic trends and insights.
